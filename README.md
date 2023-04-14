@@ -21,6 +21,43 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
-  
+
+ <div style="background: linear-gradient(to bottom, #f7f7f7, #ddd); height: 500px;">
+  <div class="rain">
+    <div class="drop"></div>
+    <div class="drop"></div>
+    <<div class="drop"></div>
+    <!-- adicione quantas divs de classe "drop" quiser -->
+  </div>
+</div>
+
+<style>
+  .rain {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+
+  .drop {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    background: #555;
+    opacity: 0;
+    animation: fall 1s linear infinite;
+  }
+
+  @keyframes fall {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(500px);
+    }
+  }
+</style>
+
  ##
  
