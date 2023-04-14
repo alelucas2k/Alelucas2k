@@ -1,27 +1,3 @@
-<div style="background-color:#000000; height:400px;">
-  <div style="background-image:linear-gradient(to bottom, #333333 0%, #000000 100%); height:400px;">
-    <div style="position:relative; width:100%; height:100%;">
-      <div style="position:absolute; bottom:0; width:100%; height:1px;">
-        <div style="position:relative; width:100%; height:100%; overflow:hidden;">
-          <div style="position:absolute; width:1px; height:100%; background-color:#666666;">
-            <div style="position:relative; width:100%; height:100%; overflow:hidden;">
-              <div style="position:absolute; width:1px; height:100%; background-color:#999999;">
-                <div style="position:relative; width:100%; height:100%; overflow:hidden;">
-                  <div style="position:absolute; width:1px; height:100%; background-color:#CCCCCC;">
-                    <div style="position:relative; width:100%; height:100%; overflow:hidden;">
-                      <div style="position:absolute; width:1px; height:100%; background-color:#FFFFFF;"></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 ### printf("Hello World 👋");
 
 - 🔭 Atualmente sou estudante de Engenharia da Computação pelo IFPB
