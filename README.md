@@ -12,6 +12,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alelucas2k&show_icons=true&count_private=true&hide_border=true&title_color=cad3f5&icon_color=c6a0f6&text_color=c9d1d9&bg_color=0d1117" alt="Alessandro Lucas github stats" /> 
+    
+</div>
 
 
 <div align="center"> 
