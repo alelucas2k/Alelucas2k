@@ -1,14 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7dc4e4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cad3f5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alessandro+Lucas;I'm+21+years+old;I'm+from+Brazil;I+Graduating+computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alelucas2k&bg_color=181926&color=7dc4e4&line=7dc4e4&point=c6a0f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alelucas2k&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alelucas2k&show_icons=true&count_private=true&hide_border=true&title_color=cad3f5&icon_color=c6a0f6&text_color=c9d1d9&bg_color=0d1117" alt="Alessandro Lucas github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelucas2k&layout=compact&hide_border=true&title_color=cad3f5&text_color=cad3f5&bg_color=0d1117" />
